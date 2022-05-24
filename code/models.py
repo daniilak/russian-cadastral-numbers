@@ -1,5 +1,5 @@
 from peewee import PostgresqlDatabase, Model, PrimaryKeyField, IntegerField, TextField, DoubleField, CharField
-
+from config import DB_NAME, DB_USER, DB_PASS, DB_HOST
 database = PostgresqlDatabase(
     DB_NAME,
     user=DB_USER,
