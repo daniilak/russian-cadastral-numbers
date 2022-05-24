@@ -12,9 +12,9 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 def create_diretories():
     if not os.path.exists(FILES_FOLDER + 'search'):
-        os.makedirs(FILES_FOLDER + + 'search')
+        os.makedirs(FILES_FOLDER + 'search')
     if not os.path.exists(FILES_FOLDER + 'search/0'):
-        os.makedirs(FILES_FOLDER + + 'search/0')
+        os.makedirs(FILES_FOLDER + 'search/0')
     for item in ['okrugs', 'rayons', 'kvartals']:
         if not os.path.exists(FILES_FOLDER + item):
             os.makedirs(FILES_FOLDER + item)

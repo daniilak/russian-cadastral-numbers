@@ -88,6 +88,12 @@ class CadastralKvartal(BaseModel):
     extent_xmax = DoubleField(null=True)
 
     attrs_info = TextField(null=True)
+    
+    stat_parcel_total = IntegerField(null=True)
+    stat_parcel_geo = IntegerField(null=True)
+
+    stat_oks_total = IntegerField(null=True)
+    stat_oks_geo = IntegerField(null=True)
 
     attrs_customer_phone = CharField(null=True)
     attrs_cad_eng_doc_date = CharField(null=True)
