@@ -286,6 +286,9 @@ def parsing_kvartal_full(name):
     res = whiler_requester(url)
     
     df = res.json()
+
+    if df['feature'] is None:
+        return
     
     if len(df['feature']) == 0:
         return
