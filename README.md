@@ -33,13 +33,13 @@
 
 - pkk_cadastral_okrugs.csv - 91 шт.
 - pkk_cadastral_rayons.csv - 2 563 шт.
-- pkk_cadastral_kvartals.csv - 943 481 шт. - ссылка на Я Диск [https://disk.yandex.ru/d/O38VG3OwWjY-NQ] (https://disk.yandex.ru/d/O38VG3OwWjY-NQ)
+- pkk_cadastral_kvartals.csv - 943 481 шт. - ссылка [на скачивание](https://ipfs.io/ipfs/QmQEXK2n1CRGxXoqxdxZyNRnh68Kh7p9sxn3tH3CBSXGYu?filename=pkk_cadastral_kvartal.csv)
 - pkk_cadastral_parcels_X.csv - по 10 000 000 шт (общее количество - 45 331 776 штук) 
-  + 1 часть [скачать](https://rc-data.ru/attachment/pkk_cadastral_parcels_1.csv)
-  + 2 часть [скачать](https://rc-data.ru/attachment/pkk_cadastral_parcels_2.csv)
-  + 3 часть [скачать](https://rc-data.ru/attachment/pkk_cadastral_parcels_3.csv)
-  + 4 часть [скачать](https://rc-data.ru/attachment/pkk_cadastral_parcels_4.csv)
-  + 5 часть [скачать](https://rc-data.ru/attachment/pkk_cadastral_parcels_5.csv)
+  + 1 часть [скачать](https://ipfs.io/ipfs/QmYWGoXimmR2DroMxrtBxmm3zGZd6DYo4b1yTTXfQi2drB?filename=pkk_cadastral_parcels_1.csv)
+  + 2 часть [скачать](https://ipfs.io/ipfs/Qmdk3zppKew7RicvBNPhs5rw9BnqqbMPhL2raikm9kjiYs?filename=pkk_cadastral_parcels_2.csv)
+  + 3 часть [скачать](https://ipfs.io/ipfs/QmXfSe3YRohtcnaG3pYp8MnF6ANsrMbEcjaZ61P6VQxkiy?filename=pkk_cadastral_parcels_3.csv)
+  + 4 часть [скачать](https://ipfs.io/ipfs/QmST2sBRxMxEBRQFedPiTctgs8E8Yzja6ceCgCyjGhixBe?filename=pkk_cadastral_parcels_4.csv)
+  + 5 часть [скачать](https://ipfs.io/ipfs/QmY8d83usmVc9PGTzD1HgDzaNGW9CCsHPqeE8S6519qXQT?filename=pkk_cadastral_parcels_5.csv)
 
 ## Таблицы
 
